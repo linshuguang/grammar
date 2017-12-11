@@ -1,0 +1,118 @@
+<% 
+dim a,b,m,n
+
+b =4
+a =b
+print(a)
+/*	
+
+a= 10
+m = "1:" +"hello world\n"
+n = "2:" +"hello world\n"
+
+
+
+if a > 0 then a = 20
+
+if a > 0 then
+end if
+
+if a > 10 then a = 40 else    a = 30
+
+if a > 100 then
+    a = 21
+else 
+    a = 31
+end if
+
+a=10
+
+b=1-2
+
+if a > 0 then
+    if a = 30 then a = 50 else a = 100
+    if b = 1 then
+        print( "b is -1\n")
+    end if
+elseif a = -10 then
+    print( "a is -10\n")
+elseif a = -20 then
+    print( "a is -10\n")
+
+elseif a = -30 then
+    print( "a is -10\n")
+else
+    if a < -1000 then print( "a less then -1000\n") else print( "a more then -1000\n")
+end if
+
+a=1  
+rem 'dfdsafsd
+b=333
+print("before eval a is " + a)
+print('\n')
+a =1000
+
+m = "print(\"in eval a is \"+a)"+":"+"a=a+1"
+eval(m)
+
+print('\nback from eval a is ')
+print(a)
+print('\nb is ')
+print(b)
+print('\n')
+
+a=3
+select case a
+  case 1,3 	print("switch 1\n")
+  case 2 	print("switch 2\n")
+  case else	  print("switch default haha\n")
+end select
+
+sub abc
+	print("ok\n")
+end sub
+
+call abc
+
+
+
+
+#eval(m)
+#m="print(a)"
+#n=
+#eval('print(a):a=a+1')
+#eval('print(a):a=a+1')
+		b=0
+    a = 0
+	
+    do
+		b = a
+        do while b < 10
+            b = b +1
+        loop
+		print("b is "):print(b):print("\n")
+		
+        a = a + 1
+		exit do
+    loop until a = 3
+	print("a is "):print(a):print("\n")
+
+
+for a = 1 to 12 
+ print(a)
+ print('\n')
+next
+
+
+select case 2
+  case 1 print(1)
+  case 2 print(2)
+  case else print("default")
+end select
+
+
+*/	
+%>
+
+
+
